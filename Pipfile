@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+certifi= {version="*"}
+chardet= {version="*"}
+Django= {version="*"}
+django-cors-headers= {version="*"}
+django-tastypie= {version="*"}
+djangorestframework= {version="*"}
+gunicorn= {version="*"}
+idna= {version="*"}
+pbr= {version="*"}
+pipenv= {version="*"}
+pipenv-to-requirements= {version="*"}
+python-dateutil= {version="*"}
+python-mimeparse= {version="*"}
+pytz= {version="*"}
+requests= {version="*"}
+six= {version="*"}
+urllib3= {version="*"}
+virtualenv= {version="*"}
+virtualenv-clone= {version="*"}
+[requires]
+python_version = "3.6"

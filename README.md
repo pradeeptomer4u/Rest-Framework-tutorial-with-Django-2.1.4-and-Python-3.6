@@ -47,30 +47,3 @@ Test Case Scenarios
 * Update a todo with API.
 * Delete a todo with API.
 
-
-### API Endpoints
-
-#### Todos
-
-* **/create/**(Todo create )
-* **/detail/**(Todo List )
-* **/update/**(Todo update )
-* **/delete/**(Todo destroy )
-
-OS Used:
-Both the app and test script should run on Ubuntu Server 18.04.
-
-#### Filter
-
-* **/list/**(Able to filter TODOs by state and/or due-date.)
-
-### Install 
-
-    pip install -r requirements.txt
-
-### Usage
-
-    python manage.py test
-
-
-
