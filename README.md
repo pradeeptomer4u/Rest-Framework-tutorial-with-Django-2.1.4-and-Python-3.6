@@ -47,3 +47,11 @@ Test Case Scenarios
 * Update a todo with API.
 * Delete a todo with API.
 
+
+### Install 
+
+    pip install -r requirements.txt
+
+### Usage
+
+    python manage.py test
