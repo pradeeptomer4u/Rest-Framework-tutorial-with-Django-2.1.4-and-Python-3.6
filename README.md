@@ -23,7 +23,7 @@ D)	List all TODOs.
 Major Package
 ******************
 Python==3.6
-Django==2.1.4
+django>=2.2.13
 django-cors-headers==2.4.0
 djangorestframework==3.9.0
 pipenv==2018.11.26
